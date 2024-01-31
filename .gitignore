@@ -1,5 +1,6 @@
 /venv/
 .idea/
+*.log
 !debug.log
 Lib/
 Scripts/
